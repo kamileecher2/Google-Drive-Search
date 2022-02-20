@@ -4,7 +4,7 @@ SUDO_CHATS_ID = [-1001485393652, -1005456463651]
 
 
 DRIVE_NAME = [
-    "Root",  # folder 1 name
+    "MULTI",  # folder 1 name
     "Cartoon",  # folder 2 name
     "Course",  # folder 3 name
     "Movies",  # ....
