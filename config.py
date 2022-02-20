@@ -1,6 +1,6 @@
-BOT_TOKEN = "1629027959:AAEaTw4s2qaAL3mYP3fQRnE"
+BOT_TOKEN = "5267029264:AAECuE7tvtkY2bHhXTDPVskEqaqMEQxzcz8"
 RESULTS_COUNT = 4  # NOTE Number of results to show, 4 is better
-SUDO_CHATS_ID = [-1001485393652, -1005456463651]
+SUDO_CHATS_ID = [-1001785091746]
 
 
 DRIVE_NAME = [
@@ -13,7 +13,7 @@ DRIVE_NAME = [
 ]
 
 DRIVE_ID = [
-    "1B9A3QqQqF31IuW2om3Qhr-wkiVLloxw8",  # folder 1 id
+    "1UWUaUcy4U_7J1ZxY6WcI3j9mbb9EHfv0",  # folder 1 id
     "12wNJTjNnR-CNBOTnLHqe-1vqFvCRLecn",  # folder 2 id
     "11nZcObsJJHojHYg43dBS0_eVvJrSD7Nf",  # and so onn... folder n id
     "10_hTMK8HE8k144wOTth_3x1hC2kZL-LR",
@@ -22,7 +22,7 @@ DRIVE_ID = [
 ]
 
 INDEX_URL = [
-    "https://dl.null.tech/0:",  # folder 1 index link
+    "https://kamileecher.ml/3:/TG",  # folder 1 index link
     "https://dl.null.tech/0:/Cartoon",  # folder 2 index link
     "https://dl.null.tech/0:/Course",  # and soo on folder n link
     "https://dl.null.tech/0:/MOVIES",
