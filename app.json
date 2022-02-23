@@ -1,0 +1,39 @@
+{
+    "name": "Drive-Search",
+    "description": "A Telegram bot for all your mirror needs",
+    "logo": "https://telegra.ph/file/019996f816db9ed576cff.jpg",
+    "keywords": [
+      "bot",
+      "telegram",
+      "python"
+    ],
+    "repository": "https://github.com/kamileecher2/Google-Drive-Search",
+    "website": "https://github.com/kamileecher2/Google-Drive-Search",
+    "success_url": "https://github.com/kamileecher2/Google-Drive-Search",
+    "stack": "container",
+    "env": {
+      "BOT_TOKEN": {
+        "description": "Token",
+        "value": "5267029264:AAECuE7tvtkY2bHhXTDPVskEqaqMEQxzcz8"
+      },
+      "RESULTS_COUNT": {
+        "description": "Result.",
+        "value": "4"
+      },
+      "SUDO_CHATS_ID": {
+        "description": "Chat.",
+        "value": "-1001785091746"
+      }
+    },
+    "addons": [
+      {
+        "plan": "heroku-postgresql"
+      }
+    ],
+    "formation": {
+            "worker": {
+                "quantity": 1,
+                "size": "free"
+            }
+      }
+}
